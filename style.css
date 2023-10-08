@@ -1,0 +1,14 @@
+* {
+    background-color: blue;
+}
+
+h1 {
+    font-weight: bold;
+    text-align: center;
+    color: blueviolet;
+}
+
+a {
+    text-align: center;
+    color: red;
+}
